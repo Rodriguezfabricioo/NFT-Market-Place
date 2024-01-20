@@ -1,36 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<img width="1440" alt="Screen Shot 2024-01-19 at 10 50 22 PM" src="https://github.com/Rodriguezfabricioo/NFT-Market-Place/assets/114358442/2aed82bc-44d5-41e8-a956-9f32f5217942">
+<img width="1440" alt="Screen Shot 2024-01-19 at 10 51 11 PM" src="https://github.com/Rodriguezfabricioo/NFT-Market-Place/assets/114358442/a9c444ac-7c90-414c-9300-66b905ccb09a">
+<img width="1440" alt="Screen Shot 2024-01-19 at 10 51 49 PM" src="https://github.com/Rodriguezfabricioo/NFT-Market-Place/assets/114358442/420f8f35-1c86-4582-87be-38a16fa38751">
+<img width="1440" alt="Screen Shot 2024-01-19 at 10 51 22 PM" src="https://github.com/Rodriguezfabricioo/NFT-Market-Place/assets/114358442/ba3c6770-082d-4f8e-b8f1-5e7f6129dfc3">
+<img width="1440" alt="Screen Shot 2024-01-19 at 10 51 31 PM" src="https://github.com/Rodriguezfabricioo/NFT-Market-Place/assets/114358442/0d5c8b45-ba2f-45e1-ac32-250f1fb6692a">
+<img width="1440" alt="Screen Shot 2024-01-19 at 10 52 10 PM" src="https://github.com/Rodriguezfabricioo/NFT-Market-Place/assets/114358442/664201aa-f0d4-41c2-a437-f87240e2ea41">
+<img width="1440" alt="Screen Shot 2024-01-19 at 10 52 22 PM" src="https://github.com/Rodriguezfabricioo/NFT-Market-Place/assets/114358442/f0cac7b7-985e-435b-b06d-202ecffa5e5e">
+<img width="1440" alt="Screen Shot 2024-01-19 at 10 52 50 PM" src="https://github.com/Rodriguezfabricioo/NFT-Market-Place/assets/114358442/5c6f3e1c-1583-4b29-8377-a98ee7d6093c">
+<img width="1440" alt="Screen Shot 2024-01-19 at 10 53 55 PM" src="https://github.com/Rodriguezfabricioo/NFT-Market-Place/assets/114358442/fc42c211-df33-4ad5-8efa-cce6ff4084ce">
+<img width="1440" alt="Screen Shot 2024-01-19 at 10 53 29 PM" src="https://github.com/Rodriguezfabricioo/NFT-Market-Place/assets/114358442/63413e9f-4417-4b43-a788-0c04a96f355d">
